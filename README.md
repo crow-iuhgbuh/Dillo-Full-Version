@@ -240,4 +240,4 @@ This repository serves as the official landing page for Dillo. The software is d
 **Get the most recent version of Dillo today!**
 
 ---
-**Last updated:** 2026-10-22 14:11:46 UTC
+**Last updated:** 2026-10-22 18:56:02 UTC
